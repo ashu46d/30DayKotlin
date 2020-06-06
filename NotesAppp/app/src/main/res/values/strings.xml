@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotesAppp</string>
+    <string name="get_started_et_text">Get Started By Adding A New Note</string>
+    <string name="dummy_heading">Dummy Heading</string>
+    <string name="dumm_note_body">Hi, I am a note body i keep your notes .. Hi, I am a note body i keep your notes .. Hi, I am a note body i keep your notes .. Hi, I am a note body i keep your notes ..</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="save_note">Save Note</string>
+</resources>
